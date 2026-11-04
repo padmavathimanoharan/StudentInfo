@@ -1,4 +1,4 @@
-# FullStack-PROJECT
+# FullStack-Project
 ## Simple Student FullStack Project
 This repository is part of my learning journey in web development and reflects hands‑on practice with React and mongodb.
 
